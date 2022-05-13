@@ -1,0 +1,62 @@
+li {
+    list-style-type: none; 
+}
+
+.checkbox {
+    text-decoration: line-through; 
+}
+
+.main {
+    margin: 50px auto 0 auto;
+    padding: 30px;
+    width: 30%;
+    background-color: aquamarine;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.header {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.header input {
+    width: 90%;
+    height: 30px;
+    padding-left: 15px;
+    border-radius: 20px;
+}
+
+.header button {
+    width: 10%;
+    border-radius: 30px;
+    margin-left: 15px;
+    padding: 7px;
+}
+
+.todo {
+    width: 100%;
+    margin-top: 30px ;
+}
+
+.todo li {
+    margin: 20px 0;
+    padding: 10px 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: left;
+    width: 90%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+}
+
+.todo input {
+    margin-right: 15px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+
